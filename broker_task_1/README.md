@@ -1,4 +1,13 @@
-#Описание задания:
+For start:
+```
+npm i
+```
+then
+```
+npm start
+```
+
+# Описание задания:
 
 1. Сделать форму на реакте. Поля - Имя, Телефон, Емейл, Город.
 2. [Ссылка на задание по верстке](https://github.com/ilyuhin-s/open-broker-test/tree/master/Gallery)
